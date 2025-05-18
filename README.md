@@ -45,10 +45,7 @@ Database	MongoDB / MySQL / PostgreSQL (specify)
 Auth	JWT / OAuth / Sessions
 Deployment	Vercel / Render / Netlify / Firebase (optional)
 
-📁 Folder Structure (Example)
-pgsql
-Copy
-Edit
+📁 Folder Structure 
 agriculture-ecommerce-platform/
 ├── backend/
 │   └── api/
@@ -59,8 +56,6 @@ agriculture-ecommerce-platform/
 ├── public/
 ├── README.md
 └── package.json
-📸 Screenshots
-Add screenshots/gifs here:
 
 🖼️ UI screenshots of the homepage, product listing, and vendor dashboard
 
@@ -75,16 +70,9 @@ Feel free to fork the repo, make changes, and submit a pull request.
 📫 Contact
 Have questions? Reach out:
 
-📧 Email: yourname@example.com
-
-🌐 Website: https://yourwebsite.com
-
-🐦 Twitter: @yourhandle
+📧 Email: aniljangid1to9@gmail.com
 
 Thank you for supporting sustainable farming! 🌾
 
-vbnet
-Copy
-Edit
 
 Let me know if you'd like this added directly to your unzipped jaadu project and zipped again for upload. I can do that next.
