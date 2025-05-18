@@ -74,5 +74,3 @@ Have questions? Reach out:
 
 Thank you for supporting sustainable farming! 🌾
 
-
-Let me know if you'd like this added directly to your unzipped jaadu project and zipped again for upload. I can do that next.
